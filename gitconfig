@@ -1,0 +1,11 @@
+[user]
+    name = David Daugherty
+    email = david@hombrito.com
+
+[core]
+    editor = vim
+    excludesfile ~/.gitignore_global
+
+[github]
+    user = david@hombrito.com
+
